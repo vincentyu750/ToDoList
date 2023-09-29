@@ -1,3 +1,6 @@
+Code
+  This is the base react native app without node-modules.
+
 System Requirements
 
 PC
