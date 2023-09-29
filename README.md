@@ -58,8 +58,3 @@ Resources
   React Native Docs: https://reactnative.dev/docs/environment-setup?guide=native).
   Expo Go Docs: https://docs.expo.dev/get-started/expo-go/
   Node Js Docs: https://nodejs.org/en/docs
-
-
-React Native Docs: https://reactnative.dev/docs/environment-setup?guide=native).
-Expo Go Docs: https://docs.expo.dev/get-started/expo-go/
-Node Js Docs: https://nodejs.org/en/docs
